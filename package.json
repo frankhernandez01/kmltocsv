@@ -1,5 +1,5 @@
 {
-  "name": "jessie_project",
+  "name": "kmltocsv",
   "version": "1.0.0",
   "description": "",
   "main": "parsekml.js",
@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "csv-stringify": "^3.0.0",
-    "furkot-import-kml": "^1.0.2",
     "read-xml": "^3.0.0",
     "xml-js": "^1.6.2"
   }
